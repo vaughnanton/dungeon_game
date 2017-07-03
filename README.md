@@ -1,2 +1,3 @@
 # dungeon_game
-Implementation of a text adventure/virtual dungeon game. 
+
+A virtual text adventure dungeon game implemented at the command line. 
